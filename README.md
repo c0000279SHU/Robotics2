@@ -4,7 +4,7 @@ The puropse of this robot is to be a quadruped robot capiable of moving up and d
 FluxUpDown is a folder containing the FluxUpDown.ino file written in c++ for the Arduino MKR Wifi 1010. 
 I will use the following headers to descibe the function calls and their puropses. All code was written, compiled, and uploaded in Arduino IDE 2.0.4.
 
-### Setup()
+### setup()
 Initializes the adafruit 16 channel servo controller
 
 ### centerHips()
@@ -34,3 +34,6 @@ After you've uploaded a sketch to the Arduino, power on the external battery bac
 
 ## Usage Instructions
 After uploading, press the joystick forwards for the robot to enter a sitting position and release to enter neutral position. Push the joystick backwards for the robot to stand up and release to enter neutral position.
+
+### references to sources
+The only source I had utilized is the library for the Adafruit 16 channel servo controller. https://learn.adafruit.com/16-channel-pwm-servo-driver
