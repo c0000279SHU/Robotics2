@@ -1,5 +1,6 @@
 # Robotics Assignment 2
 The puropse of this robot is to be a quadruped robot capiable of moving up and down.
+Additinoally here is a link to the video demonstration: https://drive.google.com/file/d/1GprLLe_lFJtb0l0Ae_kWWzTAOXGwnTiy/view?usp=sharing
 ## FluxUpDown
 FluxUpDown is a folder containing the FluxUpDown.ino file written in c++ for the Arduino MKR Wifi 1010. 
 I will use the following headers to descibe the function calls and their puropses. All code was written, compiled, and uploaded in Arduino IDE 2.0.4.
